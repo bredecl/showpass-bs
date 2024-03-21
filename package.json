@@ -5,8 +5,7 @@
   "author": "MG",
   "license": "MIT",
   "dependencies": {
-    "bootstrap": "^5.2.3",
-    "bootstrap-icons": "^1.10.3",
-    "material-icons": "^1.13.1"
+    "boosted": "^5.3.2",
+    "bootstrap": "^5.3.2"
   }
 }
